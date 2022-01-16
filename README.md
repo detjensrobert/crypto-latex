@@ -1,6 +1,6 @@
 # CS 427 Pandoc container
 
-Ubuntu's version of Pandoc is old and doesn't like the provided macros file.
+Ubuntu's version of [Pandoc](https://pandoc.org) is old and doesn't like the provided macros file (among other things).
 
 This Docker container provides Arch's Pandoc + TeXLive, which works fine.
 
